@@ -2,11 +2,12 @@
 Projeto 01 do Grupo 06 da Turma 79 Java do Bootcamp Generation
 
 INTEGRANTES
-Guilherme Kaludin
-João Oliveira
-Juliana Monteiro
-Lucas Daniel
-Tainá Lara
+<br>Guilherme Kaludin
+<br>João Oliveira
+<br>Juliana Monteiro
+<br>Lucas Daniel
+<br>Tainá Lara
+
 
 PROJETO INTEGRADOR
 ESCOPO DO PROJETO
@@ -14,29 +15,29 @@ ESCOPO DO PROJETO
 Tema: Sistema RH
 
 Título do Projeto e Modelo de Negócio escolhido:  
-Sistema de RH 
+<br>Sistema de RH 
 
 Descrição Geral do Projeto: 
-Criamos o backend para o cadastros de funcionários de uma empresa
+<br>Criamos o backend para o cadastros de funcionários de uma empresa
 
 Descrição da Entidade/Model foi criada e seus atributos: 
-Criamos a Model (tb_colaboradores) com os atributos Id, Nome, Cargo, Departamento e Salário
+<br>Criamos a Model (tb_colaboradores) com os atributos Id, Nome, Cargo, Departamento e Salário
 
 Funcionalidades Principais (CRUD) implementadas
-Criamos as seguintes funcionalidades:
-findAll()
-findById()
-post()
-put()
-delete()
-findAllByNome
+<br>Criamos as seguintes funcionalidades:
+<br>findAll()
+<br>findById()
+<br>post()
+<br>put()
+<br>delete()
+<br>findAllByNome
 
 Tecnologias Utilizadas (banco de dados e backend):
-MySql Driver
-Spring Boot Dev Tools
-SpringWeb
-Validation
-Spring Data JPA
+<br>MySql Driver
+<br>Spring Boot Dev Tools
+<br>SpringWeb
+<br>Validation
+<br>Spring Data JPA
 
 
 
